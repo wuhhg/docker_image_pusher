@@ -8,4 +8,4 @@ mysql:latest
 elasticsearch:8.14.3
 --platform=linux/arm64 redis:latest
 --platform=linux/arm64 mysql:latest
---platform=linux/80x86/typecho
+--platform=linux/arm64 80x86/typecho
