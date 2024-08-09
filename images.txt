@@ -1,1 +1,1 @@
-cloudflare/cloudflared
+--platform=linux/arm64 cloudflare/cloudflared
